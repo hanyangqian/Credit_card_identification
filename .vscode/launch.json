@@ -9,9 +9,9 @@
             "type": "debugpy",
             "request": "launch",
             "program": "${file}",
-            "console": "integratedTerminal"
+            "console": "integratedTerminal",
             "args": [
-                "--image", "./images/credit_card_02.png"
+                "--image", "./images/credit_card_02.png",
                 "--template", "./images/ocr_a_reference.png"
             ]
         }
